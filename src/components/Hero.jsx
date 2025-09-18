@@ -17,7 +17,7 @@ const Hero = () => {
     const fetchContractAddress = async () => {
       try {
         const response = await axios.get(
-          'https://script.google.com/macros/s/AKfycbzIHODiy6jiQNTj_qvtfZKMwERui43JPs985JZ_8-Z-w3gPx0txIKwhTR7GhZb-O5YbUg/exec'
+          'https://script.google.com/macros/s/AKfycbwMz7s9-KqNgMo4gi2eZjmmFor9xuTFbuzl27zwns4iMPi1ulp0krB1YcXYmPSPoy4S/exec'
         );
         
         // Handle different response formats
