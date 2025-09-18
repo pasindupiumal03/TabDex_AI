@@ -41,7 +41,7 @@ const OpenSource = () => {
               <img 
                 src="/github-white-icon.webp" 
                 alt="GitHub Open Source" 
-                className="w-full h-full object-contain opacity-20 hover:opacity-30 transition-opacity duration-300 filter brightness-50 contrast-150"
+                className="w-full h-full object-contain opacity-50 hover:opacity-30 transition-opacity duration-300 filter brightness-20 contrast-150"
                 style={{
                   filter: 'brightness(0.3) contrast(1.5) drop-shadow(0 0 20px rgba(124, 58, 237, 0.2))'
                 }}
