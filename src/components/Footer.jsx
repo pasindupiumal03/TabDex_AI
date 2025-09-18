@@ -49,7 +49,7 @@ const Footer = () => {
               <FaXTwitter className="w-5 h-5" />
             </a>
             <a 
-              href="https://github.com/pasindupiumal03/TabDex_AI" 
+              href="https://github.com/KevinPD03/TabDexAI-Chrome-Extension.git" 
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors duration-200 flex items-center justify-center"
