@@ -10,13 +10,13 @@ const Features = () => {
 
   // Image mapping for each feature
   const featureImages = {
-    0: "/Flowkey_2.png", // Add any site to bookmarks
-    1: "/Flowkey_3.png", // Open instant your workspace
-    2: "/Flowkey_4.png", // Build your layout
+    0: "/TabDexAI_2.png", // Add any site to bookmarks
+    1: "/TabDexAI_3.png", // Open instant your workspace
+    2: "/TabDexAI_4.png", // Build your layout
   };
 
   // Default image when no feature is hovered
-  const defaultImage = "/Flowkey_2.png";
+  const defaultImage = "/TabDexAI_2.png";
 
   return (
     <section id="features" className="py-20 px-6">
